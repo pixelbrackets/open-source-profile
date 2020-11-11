@@ -2,3 +2,6 @@
 .idea/
 composer.phar
 vendor/
+/.build/
+/data/projects.json
+/data/user.json
