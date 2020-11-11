@@ -1,0 +1,12 @@
+{
+    "name": "pixelbrackets/open-source-profile",
+    "description": "Self-Hosted profile page for your Open Source packages & contributions",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "pixelbrackets/html5-mini-template": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {"Pixelbrackets\\OpenSourceProfile\\": "src/"}
+    }
+}
